@@ -4,3 +4,8 @@ function onClick() {
   clicks += 1;
   document.getElementById("clicks").innerHTML = clicks;
 };
+
+function subtract() {
+  clicks -= 1;
+  document.getElementById("clicks").innerHTML = clicks;
+};
