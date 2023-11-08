@@ -74,6 +74,12 @@ body {
 .btn--reset:hover {
   box-shadow: 2px 2px 3px var(--dark);
 }
+
 h1{
   color: aqua;
 }
+
+
+p{
+  color:red
+ }
