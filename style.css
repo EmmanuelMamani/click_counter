@@ -32,6 +32,13 @@ body {
   margin-bottom: 1rem;
   color: var(--federal-blue);
 }
+.subtitle {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+  color: var(--midnight-green);
+  width: 700px;
+  text-align: center;
+}
 
 .btn {
   padding: 0.5rem 1rem;
